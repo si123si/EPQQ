@@ -1,0 +1,4 @@
+
+m3e-base
+Dmeta-embedding-zh
+bge-large-zh
